@@ -1,0 +1,12 @@
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net9.0/HR.LeaveManagement.Domain.deps.json
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net9.0/HR.LeaveManagement.Domain.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net9.0/HR.LeaveManagement.Domain.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.AssemblyInfo.cs
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/refint/HR.LeaveManagement.Domain.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/ref/HR.LeaveManagement.Domain.dll

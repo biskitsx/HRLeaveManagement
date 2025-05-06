@@ -1,0 +1,17 @@
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.csproj.AssemblyReference.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.AssemblyInfoInputs.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.AssemblyInfo.cs
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.csproj.CoreCompileInputs.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.Leavemanagement.Persistence/bin/Debug/net9.0/HR.Leavemanagement.Persistence.deps.json
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/bin/Debug/net9.0/HR.Leavemanagement.Persistence.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/bin/Debug/net9.0/HR.Leavemanagement.Persistence.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/bin/Debug/net9.0/HR.LeaveManagement.Application.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/bin/Debug/net9.0/HR.LeaveManagement.Domain.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/bin/Debug/net9.0/HR.LeaveManagement.Domain.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/bin/Debug/net9.0/HR.LeaveManagement.Application.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.Leavemanagement.Persistence/obj/Debug/net9.0/HR.Leave.1A8832A5.Up2Date
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/refint/HR.Leavemanagement.Persistence.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net9.0/HR.Leavemanagement.Persistence.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.Leavemanagement.Persistence/obj/Debug/net9.0/ref/HR.Leavemanagement.Persistence.dll

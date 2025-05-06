@@ -1,0 +1,12 @@
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/bin/Debug/net9.0/HR.LeaveManagement.Infrastructure.deps.json
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/bin/Debug/net9.0/HR.LeaveManagement.Infrastructure.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/bin/Debug/net9.0/HR.LeaveManagement.Infrastructure.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/refint/HR.LeaveManagement.Infrastructure.dll
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/HR.LeaveManagement.Infrastructure.pdb
+/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net9.0/ref/HR.LeaveManagement.Infrastructure.dll
