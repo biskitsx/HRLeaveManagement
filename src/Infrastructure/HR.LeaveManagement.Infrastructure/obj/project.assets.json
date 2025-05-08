@@ -917,19 +917,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/suphakitsongsuwong/.nuget/packages/": {}
+    "/Users/user/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
+      "projectUniqueName": "/Users/user/Documents/Github/HRLeaveManagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
       "projectName": "HR.LeaveManagement.Infrastructure",
-      "projectPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
-      "packagesPath": "/Users/suphakitsongsuwong/.nuget/packages/",
-      "outputPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/",
+      "projectPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
+      "packagesPath": "/Users/user/.nuget/packages/",
+      "outputPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/suphakitsongsuwong/.nuget/NuGet/NuGet.Config"
+        "/Users/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -941,8 +941,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
-              "projectPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
+            "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+              "projectPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
             }
           }
         }

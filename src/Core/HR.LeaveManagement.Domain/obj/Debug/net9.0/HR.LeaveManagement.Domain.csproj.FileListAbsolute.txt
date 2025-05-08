@@ -10,3 +10,16 @@
 /Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/refint/HR.LeaveManagement.Domain.dll
 /Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.pdb
 /Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/ref/HR.LeaveManagement.Domain.dll
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net9.0/HR.LeaveManagement.Domain.deps.json
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net9.0/HR.LeaveManagement.Domain.dll
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/bin/Debug/net9.0/HR.LeaveManagement.Domain.pdb
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.AssemblyInfo.cs
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.sourcelink.json
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.dll
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/refint/HR.LeaveManagement.Domain.dll
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/HR.LeaveManagement.Domain.pdb
+/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/Debug/net9.0/ref/HR.LeaveManagement.Domain.dll

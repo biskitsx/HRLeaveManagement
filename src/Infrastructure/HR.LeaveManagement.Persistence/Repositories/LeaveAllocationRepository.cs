@@ -1,4 +1,4 @@
-using HR.Leavemanagement.Persistence.DatabaseContext;
+using HR.LeaveManagement.Persistence.DatabaseContext;
 using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Domain;
 using HR.LeaveManagement.Persistence.Repositories;
@@ -8,7 +8,7 @@ namespace HR.LeaveManagement.Persistence.Repositories
 {
     public class LeaveAllocationRepository : GenericRepository<LeaveAllocation>, ILeaveAllocationRepository
     {
-        public LeaveAllocationRepository(HrDatabaseContext context): base(context)
+        public LeaveAllocationRepository(HrDatabaseContext context) : base(context)
         {
         }
 
@@ -45,7 +45,7 @@ namespace HR.LeaveManagement.Persistence.Repositories
             return leaveAllocations;
         }
 
-        public async Task<LeaveAllocation> GetLeaveAllocationWIthDetails(int id)
+        public async Task<LeaveAllocation> GetLeaveAllocationWithDetails(int id)
         {
             var leaveAllocation = await _context
                 .LeaveAllocations
@@ -58,7 +58,7 @@ namespace HR.LeaveManagement.Persistence.Repositories
         {
             var leaveAllocation = await _context
                 .LeaveAllocations
-                .FirstOrDefaultAsync(q => q.EmployeeId == userId && q.LeaveTypeId == leaveTypeId);
+                .FirstOrDefaultAsync(q => q.EmployeeId == userId && q.LeaveTypeId == leaveTypeId && q.Period == DateTime.Now.Year);
             return leaveAllocation;
         }
     }

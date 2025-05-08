@@ -1,4 +1,4 @@
-using HR.Leavemanagement.Persistence.DatabaseContext;
+using HR.LeaveManagement.Persistence.DatabaseContext;
 using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Domain;
 using HR.LeaveManagement.Persistence.Repositories;
@@ -8,7 +8,7 @@ namespace HR.LeaveManagement.Persistence.Repositories
 {
     public class LeaveTypeRepository : GenericRepository<LeaveType>, ILeaveTypeRepository
     {
-        public LeaveTypeRepository(HrDatabaseContext context): base(context)
+        public LeaveTypeRepository(HrDatabaseContext context) : base(context)
         {
         }
         public async Task<bool> IsLeaveTypeUnique(string name)

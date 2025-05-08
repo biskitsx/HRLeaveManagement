@@ -7,10 +7,12 @@ namespace HR.LeaveManagement.Persistence.Configurations
 {
     public class LeaveTypeConfiguration : IEntityTypeConfiguration<LeaveType>
     {
-        
+
         public void Configure(EntityTypeBuilder<LeaveType> builder)
         {
-            var now = DateTime.Now;
+
+            // we can not 
+            var now = new DateTime(2025, 5, 6);
             builder.HasData(
               new LeaveType
               {

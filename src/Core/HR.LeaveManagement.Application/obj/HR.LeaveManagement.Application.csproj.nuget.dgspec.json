@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {}
+    "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {}
   },
   "projects": {
-    "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+    "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
+        "projectUniqueName": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
         "projectName": "HR.LeaveManagement.Application",
-        "projectPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
-        "packagesPath": "/Users/suphakitsongsuwong/.nuget/packages/",
-        "outputPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Application/obj/",
+        "projectPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/suphakitsongsuwong/.nuget/NuGet/NuGet.Config"
+          "/Users/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
-                "projectPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj"
+              "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj"
               }
             }
           }
@@ -85,17 +85,17 @@
         }
       }
     },
-    "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
+    "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
-        "packagesPath": "/Users/suphakitsongsuwong/.nuget/packages/",
-        "outputPath": "/Users/suphakitsongsuwong/Documents/GitHub/HRLeavemanagement/src/Core/HR.LeaveManagement.Domain/obj/",
+        "projectPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Documents/Github/HRLeaveManagement/src/Core/HR.LeaveManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/suphakitsongsuwong/.nuget/NuGet/NuGet.Config"
+          "/Users/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

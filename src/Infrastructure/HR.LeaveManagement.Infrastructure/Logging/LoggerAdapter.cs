@@ -9,7 +9,7 @@ namespace HR.LeaveManagement.Infrastructure.Logging
         public LoggerAdapter(ILoggerFactory loggerFactory)
 
         {
-            _logger = loggerFactory.CreateLogger<T>();   
+            _logger = loggerFactory.CreateLogger<T>();
         }
         public void LogInformation(string message, params object[] args)
         {
@@ -19,6 +19,11 @@ namespace HR.LeaveManagement.Infrastructure.Logging
         public void LogWarning(string message, params object[] args)
         {
             _logger.LogWarning(message, args);
+        }
+
+        public void LogError(string message, params object[] args)
+        {
+            _logger.LogError(message, args);
         }
     }
 }

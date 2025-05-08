@@ -13,7 +13,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.DeleteLeave
         public DeleteLeaveTypeCommandHandler(IMapper mapper, ILeaveTypeRepository leaveTypeRepository)
         {
             this._leaveTypeRepository = leaveTypeRepository;
-            
+
         }
         public async Task<Unit> Handle(DeleteLeaveTypeCommand request, CancellationToken cancellationToken)
         {
@@ -22,7 +22,8 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.DeleteLeave
             var target = await _leaveTypeRepository.GetByIdAsync(request.Id);
 
             // verify that record exists
-            if (target == null) {
+            if (target == null)
+            {
                 throw new NotFoundException(nameof(LeaveType), request.Id);
             }
 
